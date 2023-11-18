@@ -21,9 +21,10 @@ Once installed, Uniteslate monitors the selected Minecraft language setting and 
 
 1. Make sure you have Minecraft version 1.20.2 installed.
 2. Install Fabric for Minecraft 1.20.2. [Fabric Installation Guide](https://fabricmc.net/wiki/install)
-3. Download the Uniteslate mod jar file.
-4. Place the mod jar file into the "mods" folder in your Minecraft directory.
-5. Launch Minecraft with the Fabric loader.
+3. Install Cloth Config API for Minecraft 1.20.2. [Fabric Version Only](https://modrinth.com/mod/cloth-config/versions)
+4. Download the Uniteslate mod jar file.
+5. Place the mod jar file into the "mods" folder in your Minecraft directory.
+6. Launch Minecraft with the Fabric loader.
 
 ## Compatibility
 
