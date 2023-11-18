@@ -1,0 +1,15 @@
+{
+	"required": true,
+	"package": "net.dobreguy.uniteslator.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [],
+	"client": [
+		"PlayerEntityRendererMixin",
+		"AbstractClientPlayerEntityMixin",
+		"ChatHudMixin",
+		"DrawContextAccessor"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "uniteslator",
+	"version": "${version}",
+	"name": "uniteslator",
+	"description": "This is an example description! Tell everyone what your mod is about!",
+	"authors": [
+		"Me!"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/uniteslator/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.dobreguy.uniteslator.Uniteslator"
+		],
+		"client": [
+			"net.dobreguy.uniteslator.UniteslatorClient"
+		],
+		"fabric-datagen": [
+			"net.dobreguy.uniteslator.UniteslatorDataGenerator"
+		]
+	},
+	"mixins": [
+		"uniteslator.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.14.24",
+		"minecraft": "~1.20.2",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
