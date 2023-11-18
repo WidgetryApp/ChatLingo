@@ -12,6 +12,7 @@ Uniteslate is a Fabric client mod designed to enhance communication in Minecraft
 - **Minecraft Version:** 1.20.2
 - **Fabric Version:** [1.20.2]
 - **Fabric API Version:** 0.90.7+1.20.2
+- **Cloth Config API Version:** [12.0.110]
 
 ## How it Works
 
