@@ -143,7 +143,7 @@ public class ChatHudMixin {
                     "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.95 Safari/537.11");
             con.connect();
             StringBuilder sb = new StringBuilder();
-            try (BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(con.getInputStream()))) {
+            try (BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(con.getInputStream(), "UTF-8"))) {
                 String line;
                 while ((line = bufferedReader.readLine()) != null) {
                     sb.append(line).append('\n');
