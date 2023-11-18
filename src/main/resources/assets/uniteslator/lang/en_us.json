@@ -1,0 +1,13 @@
+{
+  "text.autoconfig.uniteslator.title": "Uniteslator Config",
+  "text.autoconfig.uniteslator.option.chatColor": "Chat Color",
+  "text.autoconfig.uniteslator.option.chatTime": "Chat Time",
+  "text.autoconfig.uniteslator.option.backgroundOpacity": "Background Opacity",
+  "text.autoconfig.uniteslator.option.maxChatWidth": "Chat Width",
+  "text.autoconfig.uniteslator.option.chatHeight": "Chat Height",
+  "text.autoconfig.uniteslator.option.chatRange": "Chat Range",
+  "text.autoconfig.uniteslator.option.backgroundRed": "Background Red",
+  "text.autoconfig.uniteslator.option.backgroundGreen": "Background Green",
+  "text.autoconfig.uniteslator.option.backgroundBlue": "Background Blue",
+  "text.autoconfig.uniteslator.option.showOwnBubble": "Show Own Bubble"
+}

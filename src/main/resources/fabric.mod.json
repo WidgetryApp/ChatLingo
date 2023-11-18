@@ -22,6 +22,9 @@
 		],
 		"fabric-datagen": [
 			"net.dobreguy.uniteslator.UniteslatorDataGenerator"
+		],
+		"modmenu": [
+			"net.dobreguy.uniteslator.config.ModMenuIntegration"
 		]
 	},
 	"mixins": [

@@ -1,7 +1,14 @@
 package net.dobreguy.uniteslator.config;
 
-public class UniteslatorConfig {
+import me.shedaniel.autoconfig.ConfigData;
+import me.shedaniel.autoconfig.annotation.Config;
+import me.shedaniel.cloth.clothconfig.shadowed.blue.endless.jankson.Comment;
+
+@Config(name = "uniteslator")
+@Config.Gui.Background("minecraft:textures/block/obsidian.png")
+public class UniteslatorConfig implements ConfigData {
     public double chatRange = 30.0D;
+    @Comment("Chat time is in ticks")
     public int chatTime = 200;
     public int maxChatWidth = 180;
     public int chatColor = 1315860;
