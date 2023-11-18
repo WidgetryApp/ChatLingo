@@ -3,15 +3,14 @@
 	"id": "uniteslator",
 	"version": "${version}",
 	"name": "uniteslator",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "It translates automatically messages in chat to the language you are in Minecraft.",
 	"authors": [
-		"Me!"
+		"Hristo Petrov Dobre"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/DobreGuy/Uniteslator"
 	},
-	"license": "CC0-1.0",
+	"license": "MIT",
 	"icon": "assets/uniteslator/icon.png",
 	"environment": "*",
 	"entrypoints": {
