@@ -4,7 +4,7 @@ import me.shedaniel.autoconfig.ConfigData;
 import me.shedaniel.autoconfig.annotation.Config;
 import me.shedaniel.cloth.clothconfig.shadowed.blue.endless.jankson.Comment;
 
-@Config(name = "Uniteslator")
+@Config(name = "uniteslator")
 @Config.Gui.Background("minecraft:textures/block/obsidian.png")
 public class UniteslatorConfig implements ConfigData {
     public double chatRange = 30.0D;

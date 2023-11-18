@@ -2,7 +2,7 @@
 	"schemaVersion": 1,
 	"id": "uniteslator",
 	"version": "${version}",
-	"name": "uniteslator",
+	"name": "Uniteslator",
 	"description": "It translates automatically messages in chat to the language you are in Minecraft.",
 	"authors": [
 		"Hristo Petrov Dobre"
