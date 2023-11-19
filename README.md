@@ -35,4 +35,4 @@ Uniteslator is designed for use with Minecraft version 1.20.2 and requires Fabri
 
 If you encounter issues, have suggestions, or want to contribute to the development of Uniteslator, feel free to open an issue or submit a pull request on GitHub. Your feedback is valuable in making Uniteslator a better tool for the Minecraft community.
 
-Happy translating!
+GLHF!
