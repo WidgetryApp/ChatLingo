@@ -1,4 +1,7 @@
+
 # ChatLingo
+![ChatLingo](https://github.com/EnigmaMage/ChatLingo/assets/85458225/6ee6ddf9-b072-432b-9920-de273816d2a5)
+
 
 ChatLingo is a Fabric client mod designed to enhance communication in Minecraft by providing powerful translation capabilities. With ChatLingo, players can easily understand messages from others, as the mod dynamically translates messages based on the selected Minecraft language.
 
